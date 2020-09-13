@@ -15,8 +15,9 @@
 <h4 align="center"></h4>
 
 <p align="center">
-<a href="https://hassanejazul786.github.io/PortFolio/dist/" target="blank"><img align="center" src="https://www.agltechnologies.com/wp-content/uploads/2018/05/website-importance-for-business.jpg" alt="aayushi-droid" height="400" width="400" /></a> 
+<a href="https://hassanejazul786.github.io/PortFolio/dist/" target="blank"><img align="center" src="https://www.agltechnologies.com/wp-content/uploads/2018/05/website-importance-for-business.jpg" alt="aayushi-droid" height="200" width="200" /></a> 
 </p> 
 
 
-- 📝 I regulary write Blog on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)
+*📝 I regulary write Blog on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)<br>
+*Linkedin [Linkedin Profile](https://www.linkedin.com/in/md-ejazul-hassan/)
