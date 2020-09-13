@@ -19,5 +19,5 @@
 </p> 
 
 
-*📝 I regulary write Blog on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)<br>
-*Linkedin [Linkedin Profile](https://www.linkedin.com/in/md-ejazul-hassan/)
+* 📝 I regulary write Blog on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)<br>
+*    Linkedin [Linkedin Profile](https://www.linkedin.com/in/md-ejazul-hassan/)
