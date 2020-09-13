@@ -1,6 +1,6 @@
 <h1 align="center"> Hi Developer 👋 </h1>
 <p align="center"> I'm Md. Ejazul Hassan. I am in the final year B.Tech. Computer Science & Engineering Student. My vision is to give an impact on our society with the help of Artificial Intelligence.. </p>
-<!--<img align="right" src="#" height="300" width="300"> -->
+
 <h3 align="center"> Language & Skills </h3>
 
 * C
@@ -21,4 +21,4 @@
 
 
 * 📝 I regulary write Blog on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)<br>
-*    Linkedin [Linkedin Profile](https://www.linkedin.com/in/md-ejazul-hassan/)
+* 🌐 Linkedin [Linkedin's Profile](https://www.linkedin.com/in/md-ejazul-hassan/)
