@@ -1,13 +1,21 @@
-### Hi I'm Md. Ejazul Hassan 👋
+<h1 align="center"> Hi Buddy 👋 </h1>
+<p align="center"> I am Md. Ejazul Hassan. I am in the final year B.Tech. Computer Science & Engineering Student. My vision is to give an impact on our society with the help of Artificial Intelligence.. </p>
+<!--<img align="right" src="#" height="300" width="300"> -->
+<h3 align="center"> Language & Skills </h3>
 
-<!--
-**hassanejazul786/hassanejazul786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- C
+- Python
+- SQL
+- Web Development
+- Machine Learning
+- Deep learning
+- Natural language processing
 
-Here are some ideas to get you started:
+<h4 align="center"></h4>
 
-- 🔭 I’m currently looking for the internship in Machine learning or Data Science role.
-- 🌱 I’m currently learning Computer vision, Machine learning, Deep learning Technologies 
-- 📫 How to reach me: https://www.linkedin.com/in/md-ejazul-hassan/
-- 😄 Website: https://hassanejazul786.github.io/PortFolio/dist/
-- ⚡ Fun fact: ...
--->
+<!-- <p align="center">
+<a href="https://hassanejazul786.github.io/PortFolio/dist/" target="blank"><img align="center" src="https://www.agltechnologies.com/wp-content/uploads/2018/05/website-importance-for-business.jpg" alt="aayushi-droid" height="40" width="40" /></a> 
+</p> -->
+
+
+- 📝 I regulary write articles on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)
