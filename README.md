@@ -11,6 +11,7 @@
 * Machine Learning
 * Deep learning
 * Natural language processing
+* Web scraping
 
 <h4 align="center"></h4>
 
