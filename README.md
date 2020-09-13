@@ -3,13 +3,14 @@
 <!--<img align="right" src="#" height="300" width="300"> -->
 <h3 align="center"> Language & Skills </h3>
 
-- C
-- Python
-- SQL
-- Web Development
-- Machine Learning
-- Deep learning
-- Natural language processing
+* C
+* Python
+* SQL
+* Web Development
+* Computer vision
+* Machine Learning
+* Deep learning
+* Natural language processing
 
 <h4 align="center"></h4>
 
@@ -18,4 +19,4 @@
 </p> 
 
 
-- 📝 I regulary write articles on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)
+- 📝 I regulary write Blog on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)
