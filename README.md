@@ -1,4 +1,4 @@
-<h1 align="center"> Hi Developer 👋 </h1>
+<h1 align="center"> Hii Developer 👋 </h1>
 <p align="center"> I'm Md. Ejazul Hassan. I am in the final year B.Tech. Computer Science & Engineering Student. My vision is to give an impact on our society with the help of Artificial Intelligence.. </p>
 
 <h3 align="center"> Language & Skills </h3>
