@@ -12,12 +12,12 @@
 * Deep learning
 * Natural language processing
 * Web scraping
-<p align="right">
+
+<h4 align="center"></h4>
+
+<p align="center">
 <a href="https://hassanejazul786.github.io/PortFolio/dist/" target="blank"><img align="center" src="https://www.agltechnologies.com/wp-content/uploads/2018/05/website-importance-for-business.jpg" alt="aayushi-droid" height="200" width="200" /></a> 
 </p> 
-<h4 align="right"></h4>
-
-
 
 
 * 📝 I regulary write Blog on [Ejazul's Blog](https://kgptalkie.com/author/mdejazul-hassan/)<br>
