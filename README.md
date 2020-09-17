@@ -13,7 +13,7 @@
 * Natural language processing
 * Web scraping
 
-<h4 align="center"></h4>
+<h4 align="right"></h4>
 
 <p align="right">
 <a href="https://hassanejazul786.github.io/PortFolio/dist/" target="blank"><img align="center" src="https://www.agltechnologies.com/wp-content/uploads/2018/05/website-importance-for-business.jpg" alt="aayushi-droid" height="200" width="200" /></a> 
