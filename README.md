@@ -1,17 +1,12 @@
 <h1 align="center"> Hii Developer 👋 </h1>
-<p align="center"> I'm Md. Ejazul Hassan. I am in the final year B.Tech. Computer Science & Engineering Student. My vision is to give an impact on our society with the help of Artificial Intelligence.. </p>
+<p align="center"> I'm Md. Ejazul Hassan. With 2+ years of experience in providing solutions, implementation, escalation support and worked on ASR920, ASR903 & ASR907 cisco routers. Skilled in Enhancement, Unit testing, Double commit, Static Analysis (SA), Troubleshooting, Debugging, severity bug to give the end-to-end solutions... </p>
 
 <h3 align="center"> Language & Skills </h3>
 
-* C
-* Python
-* SQL
-* Web Development
-* Computer vision
-* Machine Learning
-* Deep learning
-* Natural language processing
-* Web scraping
+* Programming Languages:	C, C++, Python
+* Web Development:	HTML, CSS, JavaScript, PHP, Bootstrap
+* Database:	SQL
+* Software Tools:	My-SQL, Git, PyCharm, Vs Code, Linux, Putty, Vnc Viewer, Vim
 
 <h4 align="center"></h4>
 
